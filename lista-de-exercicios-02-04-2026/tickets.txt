@@ -1,0 +1,9 @@
+ID:1 STATUS:aberto PRIORIDADE:alta USUARIO:joao DESCRICAO:Impressora nao funciona
+ID:2 STATUS:fechado PRIORIDADE:baixa USUARIO:maria DESCRICAO:Senha esquecida
+ID:3 STATUS:aberto PRIORIDADE:media USUARIO:pedro DESCRICAO:Internet lenta
+ID:4 STATUS:em andamento PRIORIDADE:alta USUARIO:ana DESCRICAO:Disco cheio
+ID:5 STATUS:aberto PRIORIDADE:critica USUARIO:carlos DESCRICAO:Servidor offline
+ID:6 STATUS:fechado PRIORIDADE:media USUARIO:lucas DESCRICAO:Email nao chega
+ID:7 STATUS:em andamento PRIORIDADE:alta USUARIO:ana DESCRICAO:Disco cheio 1
+ID:8 STATUS:em andamento PRIORIDADE:alta USUARIO:ana DESCRICAO:Disco cheio 2
+ID:9 STATUS:em andamento PRIORIDADE:alta USUARIO:ana DESCRICAO:Disco cheio 3
