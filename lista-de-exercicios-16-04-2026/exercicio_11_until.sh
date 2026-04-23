@@ -1,0 +1,13 @@
+#!/bin/bash
+
+read -p "Digite um número: " num
+
+i=1
+
+until [ $i -gt 3 ]
+do
+    mult=$((i * 10))
+    resultado=$((num * mult))
+    echo "$num x $mult = $resultado"
+    i=$((i + 1))
+done
