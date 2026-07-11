@@ -1,0 +1,4 @@
+alpha 10 x
+beta 20 y
+gamma 30 z
+delta 40 w

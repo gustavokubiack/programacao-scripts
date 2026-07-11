@@ -1,0 +1,5 @@
+inicio do processo
+ERROR conexao perdida
+processando dados
+ERROR timeout
+fim do processo

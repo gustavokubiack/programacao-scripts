@@ -1,0 +1,3 @@
+casa carro casa
+arvore carro casa
+sol arvore carro

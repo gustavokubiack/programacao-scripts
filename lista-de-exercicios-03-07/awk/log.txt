@@ -1,0 +1,5 @@
+2024-01-01 sistema iniciado
+2024-01-01 erro na conexao
+2024-01-01 servico ok
+2024-01-01 erro ao carregar modulo
+2024-01-01 finalizado

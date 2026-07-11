@@ -1,0 +1,8 @@
+2024-01-01 INFO sistema iniciado
+
+2024-01-01 ERROR falha na conexao
+
+2024-01-01 INFO servico ok
+erro ao carregar modulo
+
+2024-01-01 INFO finalizado

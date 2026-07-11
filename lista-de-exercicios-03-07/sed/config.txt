@@ -1,0 +1,5 @@
+# arquivo de configuracao
+hostname_antigo
+porta=8080
+# comentario do sistema
+usuario=admin
